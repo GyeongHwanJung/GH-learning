@@ -1,2 +1,2 @@
 # GH-learning
-배웠던
+배웠던 
